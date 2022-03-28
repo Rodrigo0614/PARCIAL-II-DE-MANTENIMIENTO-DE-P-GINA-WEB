@@ -1,0 +1,31 @@
+[
+    {
+        "Usuario": "srizo",
+        "Contraseña": "srizo123",
+        "Nombre": "Steven",
+        "Apellido": "Rizo",
+        "Tipo_de_Usuario": "Administrador",
+        "Correo": "srizo@gmail.com"
+    },
+
+    {
+        "Usuario": "rdrigo",
+        "Contraseña": "rdrigo123",
+        "Nombre": "Rodrigo",
+        "Apellido": "Gonzales",
+        "Tipo_de_Usuario": "Administrador",
+        "Correo": "rdrigo@gmail.com"
+    },
+
+    {
+        "Usuario": "Cjose",
+        "Contraseña": "Cjose123",
+        "Nombre": "Jose",
+        "Apellido": "Navarro",
+        "Tipo_de_Usuario": "Administrador",
+        "Correo": "cjose@gmail.com"
+    }
+    
+]
+
+
